@@ -1,0 +1,15 @@
+.header {
+    color: white;
+    font-weight: 600;
+    margin-left: 10px;
+ 
+}
+
+.linkText{
+    color: white;
+    margin-left: 60px;
+    margin-top: 20px;
+}
+.bg-color{
+    background-color:goldenrod;
+}

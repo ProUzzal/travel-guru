@@ -1,0 +1,28 @@
+img{
+    height: 350px;
+    width: 250px;
+    padding: 30px;
+    border-radius: 40px;
+}
+.place-item{
+    color: white;
+    padding: 30px;
+}
+.place-name{
+    position: absolute;
+    margin-left: 40px;
+    margin-top: 273px;
+    font-size: 20px;
+
+
+}
+.col-md-4{
+    margin-right: 60px;
+    margin-top: 30px;
+}
+.col-md-2{
+    margin-left: 25px;
+}
+/* a:hover {
+    background-color: yellow;
+  } */
